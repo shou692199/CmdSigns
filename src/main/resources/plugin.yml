@@ -1,0 +1,5 @@
+name: CmdSigns
+version: '1.0.0'
+main: net.tokasen.cmdsigns.CmdSigns
+author: shou692199
+api-version: '1.20'
